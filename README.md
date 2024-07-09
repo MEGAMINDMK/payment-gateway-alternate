@@ -1,4 +1,4 @@
-<center><img src="logo.png" width=20%;></center>
+<center><img src="logo.png" width=60%;></center>
 
 # payment-gateway-alternate
 payment gateway alternate
